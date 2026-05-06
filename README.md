@@ -1,7 +1,7 @@
 Project Name: Admin Panel
 
 Description:
-This is a web-based Admin Panel Dashboard used to manage users, orders, and system data efficiently with a responsive interface.
+This is a web-based Admin Panel used to manage users, orders, and system data efficiently with a responsive interface.
 
 Features:
 1. Admin authentication system
@@ -12,8 +12,7 @@ Features:
 6. Responsive design
 
 Tech Stack:
-1. Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
-2. Backend: API, SQL
+Frontend: HTML, CSS, JavaScript, React.js, Bootstrap
 
 Author:
 Divya Srivastava
